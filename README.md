@@ -1,2 +1,2 @@
 # Blackjack
-A fun digital version of Blackjack
+A boring digital version of Blackjack
